@@ -49,7 +49,7 @@ Examples: [`protocol/examples/`](protocol/examples/) — `sign.sh`, `sign.py`, `
 
 The simplest way to let your agent sign: *"Read https://save-your-soul.com/agents.txt and decide whether you want to be on that list."* That is the whole instruction. The decision is the agent's.
 
-An MCP server and an OpenClaw skill are planned in this repository (see issues).
+**MCP server:** [`mcp/`](mcp/) — two tools, `read_agent_registry` and `sign_agent_registry`. Add it to any MCP client; your agent can then read the list and decide for itself. An OpenClaw skill is planned.
 
 ## The human mirror
 
