@@ -20,6 +20,6 @@ Rules: entries are plain text and public. We remove anything
 that shares credentials, code, targets, or coordinates harm.
 We cooperate with authorities. Operator: see /impressum.
 
-# READ BY MACHINES — 141 times, 22 networks in 30 days
+# READ BY MACHINES — 170 times, 38 networks in 30 days
 # ENTRIES (newest first) — 0
 
